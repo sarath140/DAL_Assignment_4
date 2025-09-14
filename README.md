@@ -17,8 +17,7 @@ DA5401_A4_GMM_Assignment/
    ```bash
    pip install -r requirements.txt
 3. Open **DA5401_A4_GMM.ipynb** in Jupyter (Notebook or Lab).
-4. 
-5. Run all cells sequentially (top → bottom). Plots and tables will render inline.  
+4. Run all cells sequentially (top → bottom). Plots and tables will render inline.  
 
 ## Notebook Contents
 - **Part A:** Data exploration, class imbalance analysis, baseline logistic regression  
